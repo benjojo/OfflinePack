@@ -8,6 +8,7 @@ This includes things like including:
 	* Bootstrap
 	* Sample Designs for BootStrap
 	* jQuery
+	* Underscore JS
 
 Things I need to add to this pack:
 
