@@ -2,8 +2,6 @@
 *.swo
 .sass-cache
 .local
-*.DS_Store
-*.db
 
 # OS or Editor folders
 .DS_Store
