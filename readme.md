@@ -7,10 +7,10 @@ This includes things like including:
 
 	* Bootstrap
 	* Sample Designs for BootStrap
+	* jQuery
 
 Things I need to add to this pack:
 
 	* FlatUI
-	* jQuery
 	* Node.js Documentation
 	* PHP Documentation
