@@ -7,11 +7,18 @@ This includes things like including:
 
 	* Bootstrap
 	* Sample Designs for BootStrap
+	* FlatUI
 	* jQuery
 	* Underscore JS
 
-Things I need to add to this pack:
+Things I need to add to this pack (But have not gotten around to it):
 
-	* FlatUI
 	* Node.js Documentation
 	* PHP Documentation
+	* Pics of kittens (Of Varying Size)
+	* D3JS (With examples)
+	* Unix Tools
+	* Go By Example
+	* Micro Commands
+	* List of Words
+	
