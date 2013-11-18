@@ -12,7 +12,8 @@ This includes things like including:
 	* Underscore JS
 	* Pics of kittens (Of Varying Size)
 	* Go By Example
-
+	* List of Words
+	
 Things I need to add to this pack (But have not gotten around to it):
 
 	* Node.js Documentation
@@ -20,5 +21,4 @@ Things I need to add to this pack (But have not gotten around to it):
 	* D3JS (With examples)
 	* Unix Tools
 	* Micro Commands
-	* List of Words
 	
