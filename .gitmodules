@@ -1,0 +1,3 @@
+[submodule "LexCollection"]
+	path = LexCollection
+	url = git@github.com:Lexicality/jsliblib.git
