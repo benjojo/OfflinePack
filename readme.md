@@ -11,14 +11,14 @@ This includes things like including:
 	* jQuery
 	* Underscore JS
 	* Pics of kittens (Of Varying Size)
-	* 
+	* Go By Example
+
 Things I need to add to this pack (But have not gotten around to it):
 
 	* Node.js Documentation
 	* PHP Documentation
 	* D3JS (With examples)
 	* Unix Tools
-	* Go By Example
 	* Micro Commands
 	* List of Words
 	

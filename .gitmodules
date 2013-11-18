@@ -1,3 +1,6 @@
 [submodule "LexCollection"]
 	path = LexCollection
 	url = git@github.com:Lexicality/jsliblib.git
+[submodule "gobyexample"]
+	path = gobyexample
+	url = git@github.com:mmcgrana/gobyexample.git
