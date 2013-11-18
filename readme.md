@@ -15,10 +15,10 @@ This includes things like including:
 	* List of Words
 	* Unix Tools
 	* PHP Documentation
+	* Node.js Documentation
 
 Things I need to add to this pack (But have not gotten around to it):
 
-	* Node.js Documentation
 	* D3JS (With examples)
 	* Micro Commands
 	
