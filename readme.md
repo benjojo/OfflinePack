@@ -10,12 +10,12 @@ This includes things like including:
 	* FlatUI
 	* jQuery
 	* Underscore JS
-
+	* Pics of kittens (Of Varying Size)
+	* 
 Things I need to add to this pack (But have not gotten around to it):
 
 	* Node.js Documentation
 	* PHP Documentation
-	* Pics of kittens (Of Varying Size)
 	* D3JS (With examples)
 	* Unix Tools
 	* Go By Example
