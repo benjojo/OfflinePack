@@ -13,12 +13,12 @@ This includes things like including:
 	* Pics of kittens (Of Varying Size)
 	* Go By Example
 	* List of Words
+	* Unix Tools
 	
 Things I need to add to this pack (But have not gotten around to it):
 
 	* Node.js Documentation
 	* PHP Documentation
 	* D3JS (With examples)
-	* Unix Tools
 	* Micro Commands
 	
