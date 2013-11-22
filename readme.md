@@ -16,9 +16,9 @@ This includes things like including:
 	* Unix Tools
 	* PHP Documentation
 	* Node.js Documentation
-
+	* Micro Commands
+	
 Things I need to add to this pack (But have not gotten around to it):
 
 	* D3JS (With examples)
-	* Micro Commands
 	
