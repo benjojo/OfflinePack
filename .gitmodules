@@ -4,3 +4,6 @@
 [submodule "gobyexample"]
 	path = gobyexample
 	url = git@github.com:mmcgrana/gobyexample.git
+[submodule "microcmds"]
+	path = microcmds
+	url = git@github.com:benjojo/-cmds.git
