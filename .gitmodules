@@ -7,3 +7,9 @@
 [submodule "microcmds"]
 	path = microcmds
 	url = git@github.com:benjojo/-cmds.git
+[submodule "FUSE/Dokan"]
+	path = FUSE/Dokan
+	url = git@github.com:benjojo/SoundCloudFS.git
+[submodule "go_examples"]
+	path = go_examples
+	url = git@github.com:askn/go_examples.git
